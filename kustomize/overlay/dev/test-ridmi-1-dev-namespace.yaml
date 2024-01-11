@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test-ridmi-1-dev
+  labels:
+    environment-id: env_daac0ce8-dfe8-4d93-926e-3d82b482da08
+    project-id: project_39f509f8-782a-456b-aaad-ca4fd6850ce3
+    project-name: test-ridmi-1
+    environment-name: dev
+    organization-id: org_3fe5a754-9f2c-48a1-a0cf-5e307ff42d78
