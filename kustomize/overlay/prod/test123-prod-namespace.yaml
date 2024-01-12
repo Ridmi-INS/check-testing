@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test123-prod
+  labels:
+    environment-id: env_b7c42758-ceb6-430d-914b-36796deb9165
+    project-id: project_f69c0a58-8ee2-4a79-8997-e43d60482e86
+    project-name: test123
+    environment-name: prod
+    organization-id: org_3fe5a754-9f2c-48a1-a0cf-5e307ff42d78

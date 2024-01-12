@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: test123-dev
+  labels:
+    environment-id: env_c6605fdf-bcd6-4bc7-85a2-75026eb8ddec
+    project-id: project_f69c0a58-8ee2-4a79-8997-e43d60482e86
+    project-name: test123
+    environment-name: dev
+    organization-id: org_3fe5a754-9f2c-48a1-a0cf-5e307ff42d78
